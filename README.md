@@ -36,8 +36,8 @@
 
 ## 3 环境准备
 
-在习题课开始之前请先配置vscode，安装terminus. 如有问题请联系助教wuhaoyu556@ruc.edu.cn
-
-
-
-## 4 格式规范 @ pjd
+在习题课开始之前请完成以下工作:
+- 配置vscode
+- windows用户请配置[wsl](https://learn.microsoft.com/en-us/windows/wsl/install)
+- 安装[terminus](https://termius.com/)
+如有问题请联系助教wuhaoyu556@ruc.edu.cn
