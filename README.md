@@ -26,22 +26,22 @@
 
 
 我们建议大家花30分钟时间仔细学习本节两个参考文档。 然后核心内容整理如下:
-
+- 请仔细阅读readme文档
 - 在提出问题之前先自己尝试解决
 - 准确的描述问题，bug发生的环境，上下文，已经尝试的解法，推测可能的问题。 
 - 适当的有礼貌，但是请别让无关的信息淹没你的信息。  开头问号，结尾谢谢即可~
 - 请不要拍屏幕，请截图
 
 
-
 参考 [How-To-Ask-Questions-The-Smart-Way中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)和[Stop-Ask-Questions-The-Stupid-Ways中文版](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
-## 3 环境准备
+## 3 作业提交的建议格式
+使用markdown文档进行编写,导出成pdf之后提交到obe. 
+markdown可以编写一些简单的公式和表格。 
 
-在习题课开始之前请完成以下工作:
-- 配置vscode
-- windows用户请配置[wsl](https://learn.microsoft.com/en-us/windows/wsl/install)
-- 安装[terminus](https://termius.com/)
+markdown+vscode导出pdf: 
+1. 安装插件`markdown pdf`
+2. command+shift+p 搜索 export -> 选择export pdf
 
-
-如有问题请联系助教wuhaoyu556@ruc.edu.cn
+关于lab提交:
+[datalab-readme](https://github.com/RUCICS/datalab/blob/main/README.md)
